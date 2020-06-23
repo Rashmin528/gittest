@@ -9,7 +9,7 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
-        {vuvjhhhhhhhhrthy666
+        {vuvjhhhhhhhhrthy
             
         }
     }
